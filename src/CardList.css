@@ -1,0 +1,4 @@
+.draw-pile{
+  display: flex;
+  flex-wrap: wrap;
+}
